@@ -16,19 +16,19 @@ Nosso projeto consiste em uma API desenvolvida em Java utilizando o framework Sp
 - **Maven**
 
 ## 2. Passos para rodar a aplicação:
-1. Clone o repositório:
+1. Clone o repositório:  
 git clone https://github.com/GuilhermeAlunoFIAP/Challenger-Sprint-Java.git
 
-2. Abra o diretório do projeto clonado:
+2. Abra o diretório do projeto clonado:  
 cd Challenge_DAS_JAVA
 
-3. Execute o comando para gerar um .jar da aplicação
+3. Execute o comando para gerar um .jar da aplicação  
 mvn clean package
 
-4. Acesse o diretório target para acessar o .jar
+4. Acesse o diretório target para acessar o .jar  
 cd target
 
-5. Rode a aplicação
+5. Rode a aplicação  
 java -jar Challenge01-0.0.1-SNAPSHOT.jar 
 
 ## 3. Imagem do Diagrama
