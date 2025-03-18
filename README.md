@@ -17,7 +17,7 @@ Nosso projeto consiste em uma API desenvolvida em Java utilizando o framework Sp
 
 ## 2. Passos para rodar a aplicação:
 1. Clone o repositório:
-git clone 
+git clone https://github.com/GuilhermeAlunoFIAP/Challenger-Sprint-Java.git
 
 2. Abra o diretório do projeto clonado:
 cd Challenge_DAS_JAVA
